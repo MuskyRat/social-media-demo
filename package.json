@@ -2,7 +2,7 @@
   "name": "react-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muskyrat.github.io/social-media-1",
+  "homepage": "https://muskyrat.github.io/social-media-demo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
